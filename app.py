@@ -777,7 +777,6 @@ with st.sidebar:
     st.header("Tentang aplikasi")
     st.caption(
         "Versi hemat memori: hanya menggunakan satu model embedding "
-        "dan tidak memuat FLAN-T5."
     )
 
     st.metric(
