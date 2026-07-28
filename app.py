@@ -776,7 +776,7 @@ st.markdown(
 with st.sidebar:
     st.header("Tentang aplikasi")
     st.caption(
-        "Versi hemat memori: hanya menggunakan satu model embedding "
+        "Prototype UAS Trending Topics on Statistics "
     )
 
     st.metric(
